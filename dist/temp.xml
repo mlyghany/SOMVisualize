@@ -1,0 +1,181 @@
+<document>
+	<labels>
+		<cluster>Clusters</cluster>
+		<component0>Total Fertility Rate</component0>
+		<component1>Median age at first marriage for women</component1>
+		<component2>Median age at first sexual intercourse</component2>
+		<component3>Median age at first birth for women</component3>
+		<component4>Median women wanting no more children</component4>
+		<component5>Women age 15-24 who have begun childbearing</component5>
+	</labels>
+	<data>
+		<title>NCR</title>
+		<cluster>0000ff</cluster>
+		<component0>0000ff</component0>
+		<component1>ff0300</component1>
+		<component2>ff0300</component2>
+		<component3>ff0300</component3>
+		<component4>eeff00</component4>
+		<component5>0000ff</component5>
+	</data>
+	<data>
+		<title>CAR</title>
+		<cluster>aaff00</cluster>
+		<component0>00ff01</component0>
+		<component1>00ffc5</component1>
+		<component2>00ffd1</component2>
+		<component3>00b9ff</component3>
+		<component4>d0ff00</component4>
+		<component5>00ff52</component5>
+	</data>
+	<data>
+		<title>Region I</title>
+		<cluster>0000ff</cluster>
+		<component0>31ff00</component0>
+		<component1>f6ff00</component1>
+		<component2>ff7400</component2>
+		<component3>c7ff00</component3>
+		<component4>d0ff00</component4>
+		<component5>4fff00</component5>
+	</data>
+	<data>
+		<title>Region II</title>
+		<cluster>00ffaa</cluster>
+		<component0>ff6900</component0>
+		<component1>00ffab</component1>
+		<component2>00ff85</component2>
+		<component3>00f7ff</component3>
+		<component4>ff7b00</component4>
+		<component5>f0ff00</component5>
+	</data>
+	<data>
+		<title>Region III</title>
+		<cluster>0000ff</cluster>
+		<component0>00ff9a</component0>
+		<component1>a8ff00</component1>
+		<component2>f4ff00</component2>
+		<component3>6aff00</component3>
+		<component4>eeff00</component4>
+		<component5>00ff52</component5>
+	</data>
+	<data>
+		<title>Region IVA</title>
+		<cluster>0000ff</cluster>
+		<component0>00ff9a</component0>
+		<component1>ffd400</component1>
+		<component2>ff2900</component2>
+		<component3>fffa00</component3>
+		<component4>d0ff00</component4>
+		<component5>00ff1c</component5>
+	</data>
+	<data>
+		<title>Region IVB</title>
+		<cluster>00ffaa</cluster>
+		<component0>ff0300</component0>
+		<component1>0083ff</component1>
+		<component2>0026ff</component2>
+		<component3>001fff</component3>
+		<component4>fff300</component4>
+		<component5>ff0300</component5>
+	</data>
+	<data>
+		<title>Region V</title>
+		<cluster>00ffaa</cluster>
+		<component0>ff6900</component0>
+		<component1>00ff5d</component1>
+		<component2>11ff00</component2>
+		<component3>00ffab</component3>
+		<component4>ff2100</component4>
+		<component5>00ff1c</component5>
+	</data>
+	<data>
+		<title>Region VI</title>
+		<cluster>0000ff</cluster>
+		<component0>00ff01</component0>
+		<component1>f6ff00</component1>
+		<component2>ffc000</component2>
+		<component3>a8ff00</component3>
+		<component4>ff0300</component4>
+		<component5>00ff87</component5>
+	</data>
+	<data>
+		<title>Region VII</title>
+		<cluster>aaff00</cluster>
+		<component0>00ff34</component0>
+		<component1>25ff00</component1>
+		<component2>00ffab</component2>
+		<component3>00ff4e</component3>
+		<component4>ff7b00</component4>
+		<component5>00ff52</component5>
+	</data>
+	<data>
+		<title>Region VIII</title>
+		<cluster>00ffaa</cluster>
+		<component0>ff0300</component0>
+		<component1>00ff0e</component1>
+		<component2>00ff14</component2>
+		<component3>00ffab</component3>
+		<component4>d0ff00</component4>
+		<component5>baff00</component5>
+	</data>
+	<data>
+		<title>Region IX</title>
+		<cluster>00ffaa</cluster>
+		<component0>fdff00</component0>
+		<component1>00ff0e</component1>
+		<component2>00ff85</component2>
+		<component3>00ff6d</component3>
+		<component4>76ff00</component4>
+		<component5>baff00</component5>
+	</data>
+	<data>
+		<title>Region X</title>
+		<cluster>aaff00</cluster>
+		<component0>00ff01</component0>
+		<component1>00ff28</component1>
+		<component2>00ffab</component2>
+		<component3>00ff8c</component3>
+		<component4>ffd500</component4>
+		<component5>00ff1c</component5>
+	</data>
+	<data>
+		<title>Region XI</title>
+		<cluster>aaff00</cluster>
+		<component0>00ff01</component0>
+		<component1>00ff91</component1>
+		<component2>00e3ff</component2>
+		<component3>00b9ff</component3>
+		<component4>ffd500</component4>
+		<component5>4fff00</component5>
+	</data>
+	<data>
+		<title>Region XII</title>
+		<cluster>aaff00</cluster>
+		<component0>97ff00</component0>
+		<component1>00d1ff</component1>
+		<component2>0026ff</component2>
+		<component3>0000ff</component3>
+		<component4>ffb700</component4>
+		<component5>ff6e00</component5>
+	</data>
+	<data>
+		<title>Region XIII</title>
+		<cluster>00ffaa</cluster>
+		<component0>ff0300</component0>
+		<component1>00ffc5</component1>
+		<component2>00e3ff</component2>
+		<component3>00f7ff</component3>
+		<component4>ff7b00</component4>
+		<component5>ffa400</component5>
+	</data>
+	<data>
+		<title>ARMM</title>
+		<cluster>aaff00</cluster>
+		<component0>ff0300</component0>
+		<component1>0000ff</component1>
+		<component2>0000ff</component2>
+		<component3>0000ff</component3>
+		<component4>0000ff</component4>
+		<component5>00ff1c</component5>
+	</data>
+</document>
